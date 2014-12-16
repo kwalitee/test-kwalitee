@@ -1,0 +1,3 @@
+plugins:
+  - PEP8
+  - PEP257
