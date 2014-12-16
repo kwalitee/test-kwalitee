@@ -1,3 +1,2 @@
-plugins:
-  - PEP8
-  - PEP257
+PEP8: False
+pyflakes: True
