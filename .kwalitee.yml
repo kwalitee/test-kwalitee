@@ -1,6 +1,6 @@
 pyflakes: True
 pep8: True
-pep257: False
+pep257: True
 ignore:
   # For PEP8 error codes readmore:
   # http://pep8.readthedocs.org/en/latest/intro.html#error-codes
