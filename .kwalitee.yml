@@ -9,7 +9,7 @@ ignore:
   #- 'E112'
   #- 'E113'
   - 'E114'
-  #- 'E115'
+  - 'E115'
   - 'E116'
   - 'E121'
   - 'E122'
@@ -74,5 +74,3 @@ ignore:
   - 'W602'
   - 'W603'
   - 'W604'
-  # Copyright is missing error
-  - 'I101'
