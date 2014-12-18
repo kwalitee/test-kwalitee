@@ -1,7 +1,3 @@
 def hei():
-
-import rain
-
-        print "Hello"
-        if
-        else
+   hello="drjova"
+   print hello
